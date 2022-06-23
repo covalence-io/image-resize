@@ -1,0 +1,23 @@
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+form {
+    text-align: center;
+}
+
+img {
+    display: block;
+    width: 10em;
+    border-radius: 50%;
+    margin: 0 auto 1em;
+}
+
+.progress {
+    margin-top: 1em;
+}
+
+.hidden {
+    display: none;
+}
